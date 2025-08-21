@@ -19,6 +19,7 @@ function App() {
       <option value ={"pink"}>Pink</option>
       <option value ={"black"}>Black</option>
       <option value ={"purple"}>Purple</option>
+      <option value ={"Indigo"}>Indigo</option>
     </select>
     {/* props declare in component */}
     <Clock color ={color} />
